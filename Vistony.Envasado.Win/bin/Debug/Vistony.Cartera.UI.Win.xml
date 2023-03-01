@@ -1,0 +1,303 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Vistony.Cartera.UI.Win</name>
+    </assembly>
+    <members>
+        <member name="P:Forxap.Banco.UI.Win.Asistentes.BaseWizard.PaneLevel">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="P:Forxap.Banco.UI.Win.Asistentes.BaseWizard.PaneMax">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="M:Forxap.Banco.UI.Win.Asistentes.BaseWizard.OnInitializeComponent">
+            <summary>
+            Initialize components. Called by framework after form created.
+            </summary>
+        </member>
+        <member name="M:Forxap.Banco.UI.Win.Asistentes.BaseWizard.OnInitializeFormEvents">
+            <summary>
+            Initialize form event. Called by framework before form creation.
+            </summary>
+        </member>
+        <member name="M:Forxap.Banco.UI.Win.BaseUDOForm.OnInitializeComponent">
+            <summary>
+            Initialize components. Called by framework after form created.
+            </summary>
+        </member>
+        <member name="M:Forxap.Banco.UI.Win.BaseUDOForm.OnInitializeFormEvents">
+            <summary>
+            Initialize form event. Called by framework before form creation.
+            </summary>
+        </member>
+        <member name="M:Forxap.Banco.UI.Win.ApplicationEvent.SB1_Application_AppEvent(SAPbouiCOM.BoAppEventTypes)">
+            <summary>
+            
+            </summary>
+            <param name="EventType"></param>
+        </member>
+        <member name="M:Forxap.Banco.UI.Win.Sb1Connection.ConnectToSAP">
+            <summary>
+            Conecta el AddOn a la instancia de SAP que se encuentra cargada (desarrollo) o en la instancia
+            que lo invoca en Producción.
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:Forxap.Banco.UI.Win.Configuracion.frmBase.OnInitializeComponent">
+            <summary>
+            Initialize components. Called by framework after form created.
+            </summary>
+        </member>
+        <member name="M:Forxap.Banco.UI.Win.Configuracion.frmBase.OnInitializeFormEvents">
+            <summary>
+            Initialize form event. Called by framework before form creation.
+            </summary>
+        </member>
+        <member name="M:Forxap.Banco.UI.Win.Configuracion.frmParametrizacion.OnInitializeComponent">
+            <summary>
+            Initialize components. Called by framework after form created.
+            </summary>
+        </member>
+        <member name="M:Forxap.Banco.UI.Win.Configuracion.frmParametrizacion.OnInitializeFormEvents">
+            <summary>
+            Initialize form event. Called by framework before form creation.
+            </summary>
+        </member>
+        <member name="M:Forxap.Banco.UI.Win.FormMenuEvent.SB1_Application_FormMenuEvent(SAPbouiCOM.MenuEvent@,System.Boolean@)">
+            <summary>
+            
+            </summary>
+            <param name="pVal"></param>
+            <param name="BubbleEvent"></param>
+        </member>
+        <member name="T:Forxap.Banco.UI.Win.Sb1Globals">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="F:Forxap.Banco.UI.Win.Sb1Globals.oCompany">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="F:Forxap.Banco.UI.Win.Sb1Globals.oCompanyService">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="F:Forxap.Banco.UI.Win.Sb1Globals.DbServerType">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="F:Forxap.Banco.UI.Win.Sb1Globals.CompanyName">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="F:Forxap.Banco.UI.Win.Sb1Globals.CompanyDB">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="F:Forxap.Banco.UI.Win.Sb1Globals.Autorizacion">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="F:Forxap.Banco.UI.Win.Sb1Globals.oForm">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="F:Forxap.Banco.UI.Win.Sb1Globals.UserSignature">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="F:Forxap.Banco.UI.Win.Sb1Globals.UserName">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="M:Forxap.Banco.UI.Win.Interfaz.wzdCartera.OnInitializeComponent">
+            <summary>
+            Initialize components. Called by framework after form created.
+            </summary>
+        </member>
+        <member name="M:Forxap.Banco.UI.Win.Interfaz.wzdCartera.OnInitializeFormEvents">
+            <summary>
+            Initialize form event. Called by framework before form creation.
+            </summary>
+        </member>
+        <!-- Badly formed XML comment ignored for member "M:Forxap.Banco.UI.Win.MainMenuEvent.SB1_Application_MainMenuEvent(SAPbouiCOM.MenuEvent@,System.Boolean@)" -->
+        <member name="M:Forxap.Banco.UI.Win.MainMenuEvent.OnShowAsistenteCartera">
+            fin del  metodo
+        </member>
+        <member name="M:Forxap.Banco.UI.Win.Sb1MetaData.AddMenus">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="M:Forxap.Banco.UI.Win.Sb1MetaData.AddTables">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="M:Forxap.Banco.UI.Win.Sb1MetaData.AddFields">
+            <summary>
+            e
+            </summary>
+        </member>
+        <member name="M:Forxap.Banco.UI.Win.Sb1MetaData.AddUdos">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="M:Forxap.Banco.UI.Win.Sb1MetaData.AddUserScripts">
+            <summary>
+            
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:Forxap.Banco.UI.Win.Sb1MetaData.AddPermissions">
+            <summary>
+            
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:Forxap.Banco.UI.Win.Sb1MetaData.AddIcon">
+            <summary>
+            ddd
+            </summary>
+        </member>
+        <member name="M:Forxap.Banco.UI.Win.Program.Main(System.String[])">
+            <summary>
+            The main entry point for the application.
+            </summary>
+        </member>
+        <member name="M:Forxap.Banco.UI.Win.Utils.LoadVendedor(SAPbouiCOM.ComboBox@)">
+            <summary>
+            Carga un combobox con los vendedores
+            </summary>
+            <param name="oComboBox"></param>
+        </member>
+        <member name="M:Forxap.Banco.UI.Win.Utils.LoadUnidadNegocio(SAPbouiCOM.ComboBox@)">
+            <summary>
+            Carga un combobox con los supervisores
+            </summary>
+            <param name="oComboBox"></param>
+        </member>
+        <member name="M:Forxap.Banco.UI.Win.Utils.LoadTipoPago(SAPbouiCOM.ComboBox@)">
+            <summary>
+            Carga un combobox con los valores validos
+            </summary>
+            <param name="oComboBox"></param>
+            <param name="tableID"></param> 
+        </member>
+        <member name="M:Forxap.Banco.UI.Win.Utils.LoadEstado(SAPbouiCOM.ComboBox@)">
+            <summary>
+            Carga un combobox con los valores validos
+            </summary>
+            <param name="oComboBox"></param>
+            <param name="tableID"></param> 
+        </member>
+        <member name="M:Forxap.Banco.UI.Win.Utils.LoadBancos(SAPbouiCOM.ComboBox@)">
+            <summary>
+            Carga un combobox con los bancos
+            </summary>
+            <param name="oComboBox"></param>
+            <param name="tableID"></param> 
+        </member>
+        <member name="M:Forxap.Banco.UI.Win.Utils.LoadCuentas(SAPbouiCOM.ComboBox@,System.String)">
+            <summary>
+            Carga un combobox con las cuentas
+            </summary>
+            <param name="oComboBox"></param>
+            <param name="tableID"></param> 
+        </member>
+        <member name="M:Forxap.Banco.UI.Win.Utils.LoadEstadoo(SAPbouiCOM.ComboBox@)">
+            <summary>
+            Carga un combobox con los supervisores
+            </summary>
+            <param name="oComboBox"></param>
+        </member>
+        <member name="M:Forxap.Banco.UI.Win.Utils.LoadSupervisor(SAPbouiCOM.ComboBox@)">
+            <summary>
+            Carga un combobox con los supervisores
+            </summary>
+            <param name="oComboBox"></param>
+        </member>
+        <member name="M:Forxap.Banco.UI.Win.Utils.LoadUsers(SAPbouiCOM.ComboBox@)">
+            <summary>
+            Carga un combobox con los usuarios
+            </summary>
+            <param name="oComboBox"></param>
+        </member>
+        <member name="M:Forxap.Banco.UI.Win.Utils.LoadUsers(SAPbouiCOM.Column@)">
+            <summary>
+            Carga un combobox dentro de una grilla con los usuarios
+            </summary>
+            <param name="oComboBox"></param>
+        </member>
+        <member name="M:Forxap.Banco.UI.Win.Utils.LoadMiscelaneo(SAPbouiCOM.ComboBox@,System.String)">
+            <summary>
+            /
+            </summary>
+            <param name="oComboBox"></param>
+            <param name="tableName"></param>
+        </member>
+        <!-- Badly formed XML comment ignored for member "M:Forxap.Banco.UI.Win.Utils.LoadMiscelaneo(SAPbouiCOM.Column@,System.String)" -->
+        <member name="M:Forxap.Banco.UI.Win.Utils.findDataTable(SAPbouiCOM.DataTable,System.String,System.String)">
+            <summary>
+            Carga un combobox dentro de una grilla con los estados civiles
+            </summary>
+            <param name="oComboBox"></param>
+        </member>
+        <member name="F:Forxap.Banco.UI.Constans.AddonWinForms.frmParametros">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="M:Forxap.Banco.Win.Interfaz.Importar.frmImportar.OnInitializeComponent">
+            <summary>
+            Initialize components. Called by framework after form created.
+            </summary>
+        </member>
+        <member name="M:Forxap.Banco.Win.Interfaz.Importar.frmImportar.OnInitializeFormEvents">
+            <summary>
+            Initialize form event. Called by framework before form creation.
+            </summary>
+        </member>
+        <member name="T:Vistony.Cartera.UI.Win.Properties.Resources">
+            <summary>
+              A strongly-typed resource class, for looking up localized strings, etc.
+            </summary>
+        </member>
+        <member name="P:Vistony.Cartera.UI.Win.Properties.Resources.ResourceManager">
+            <summary>
+              Returns the cached ResourceManager instance used by this class.
+            </summary>
+        </member>
+        <member name="P:Vistony.Cartera.UI.Win.Properties.Resources.Culture">
+            <summary>
+              Overrides the current thread's CurrentUICulture property for all
+              resource lookups using this strongly typed resource class.
+            </summary>
+        </member>
+        <member name="P:Vistony.Cartera.UI.Win.Properties.Resources.String1">
+            <summary>
+              Looks up a localized string similar to 1.
+            </summary>
+        </member>
+        <member name="P:Vistony.Cartera.UI.Win.Properties.Resources.String2">
+            <summary>
+              Looks up a localized string similar to 2.
+            </summary>
+        </member>
+    </members>
+</doc>

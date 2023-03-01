@@ -1,0 +1,193 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Vistony.AddonName.Win</name>
+    </assembly>
+    <members>
+        <member name="M:Vistony.AddonName.Win.Asistentes.FrmAsignar.OnInitializeComponent">
+            <summary>
+            Initialize components. Called by framework after form created.
+            </summary>
+        </member>
+        <member name="M:Vistony.AddonName.Win.Asistentes.FrmAsignar.OnInitializeFormEvents">
+            <summary>
+            Initialize form event. Called by framework before form creation.
+            </summary>
+        </member>
+        <member name="M:Vistony.AddonName.Win.Asistentes.FrmAsistenteAsignacionTI.OnInitializeComponent">
+            <summary>
+            Initialize components. Called by framework after form created.
+            </summary>
+        </member>
+        <member name="M:Vistony.AddonName.Win.Asistentes.FrmAsistenteAsignacionTI.OnInitializeFormEvents">
+            <summary>
+            Initialize form event. Called by framework before form creation.
+            </summary>
+        </member>
+        <member name="M:Vistony.AddonName.Win.Asistentes.FrmSerieActivos.OnInitializeComponent">
+            <summary>
+            Initialize components. Called by framework after form created.
+            </summary>
+        </member>
+        <member name="M:Vistony.AddonName.Win.Asistentes.FrmSerieActivos.OnInitializeFormEvents">
+            <summary>
+            Initialize form event. Called by framework before form creation.
+            </summary>
+        </member>
+        <member name="M:Vistony.AddonName.Win.Maestros.OHEM.OnInitializeComponent">
+            <summary>
+            Initialize components. Called by framework after form created.
+            </summary>
+        </member>
+        <member name="M:Vistony.AddonName.Win.Maestros.OHEM.OnInitializeFormEvents">
+            <summary>
+            Initialize form event. Called by framework before form creation.
+            </summary>
+        </member>
+        <member name="T:Vistony.AddonName.Win.Properties.Resources">
+            <summary>
+              A strongly-typed resource class, for looking up localized strings, etc.
+            </summary>
+        </member>
+        <member name="P:Vistony.AddonName.Win.Properties.Resources.ResourceManager">
+            <summary>
+              Returns the cached ResourceManager instance used by this class.
+            </summary>
+        </member>
+        <member name="P:Vistony.AddonName.Win.Properties.Resources.Culture">
+            <summary>
+              Overrides the current thread's CurrentUICulture property for all
+              resource lookups using this strongly typed resource class.
+            </summary>
+        </member>
+        <member name="P:Vistony.AddonName.Win.Properties.Resources.String1">
+            <summary>
+              Looks up a localized string similar to 1.
+            </summary>
+        </member>
+        <member name="P:Vistony.AddonName.Win.Properties.Resources.String2">
+            <summary>
+              Looks up a localized string similar to 2.
+            </summary>
+        </member>
+        <member name="M:Forxap.AddonName.UI.Win.BaseUDOForm.OnInitializeComponent">
+            <summary>
+            Initialize components. Called by framework after form created.
+            </summary>
+        </member>
+        <member name="M:Forxap.AddonName.UI.Win.BaseUDOForm.OnInitializeFormEvents">
+            <summary>
+            Initialize form event. Called by framework before form creation.
+            </summary>
+        </member>
+        <member name="M:Forxap.AddonName.UI.Win.ApplicationEvent.SB1_Application_AppEvent(SAPbouiCOM.BoAppEventTypes)">
+            <summary>
+            
+            </summary>
+            <param name="EventType"></param>
+        </member>
+        <member name="M:Forxap.AddonName.UI.Win.Sb1Connection.ConnectToSAP">
+            <summary>
+            Conecta el AddOn a la instancia de SAP que se encuentra cargada (desarrollo) o en la instancia
+            que lo invoca en Producción.
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:Forxap.AddonName.UI.Win.Configuracion.frmBase.OnInitializeComponent">
+            <summary>
+            Initialize components. Called by framework after form created.
+            </summary>
+        </member>
+        <member name="M:Forxap.AddonName.UI.Win.Configuracion.frmBase.OnInitializeFormEvents">
+            <summary>
+            Initialize form event. Called by framework before form creation.
+            </summary>
+        </member>
+        <member name="M:Forxap.AddonName.UI.Win.Configuracion.frmParametrizacion.OnInitializeComponent">
+            <summary>
+            Initialize components. Called by framework after form created.
+            </summary>
+        </member>
+        <member name="M:Forxap.AddonName.UI.Win.Configuracion.frmParametrizacion.OnInitializeFormEvents">
+            <summary>
+            Initialize form event. Called by framework before form creation.
+            </summary>
+        </member>
+        <member name="M:Forxap.AddonName.UI.Win.FormMenuEvent.SB1_Application_FormMenuEvent(SAPbouiCOM.MenuEvent@,System.Boolean@)">
+            <summary>
+            
+            </summary>
+            <param name="pVal"></param>
+            <param name="BubbleEvent"></param>
+        </member>
+        <member name="T:Forxap.AddonName.UI.Win.Sb1Globals">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="F:Forxap.AddonName.UI.Win.Sb1Globals.oCompany">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="F:Forxap.AddonName.UI.Win.Sb1Globals.oCompanyService">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="F:Forxap.AddonName.UI.Win.Sb1Globals.DbServerType">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="F:Forxap.AddonName.UI.Win.Sb1Globals.CompanyName">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="F:Forxap.AddonName.UI.Win.Sb1Globals.CompanyDB">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="F:Forxap.AddonName.UI.Win.Sb1Globals.Autorizacion">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="F:Forxap.AddonName.UI.Win.Sb1Globals.oForm">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="F:Forxap.AddonName.UI.Win.Sb1Globals.UserSignature">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="F:Forxap.AddonName.UI.Win.Sb1Globals.UserName">
+            <summary>
+            
+            </summary>
+        </member>
+        <!-- El comentario XML con formato incorrecto se ha omitido para el miembro "M:Forxap.AddonName.UI.Win.MainMenuEvent.SB1_Application_MainMenuEvent(SAPbouiCOM.MenuEvent@,System.Boolean@)" -->
+        <member name="M:Forxap.AddonName.UI.Win.MainMenuEvent.OnShowFrmAsignacion_Activos">
+            fin del  metodo
+        </member>
+        <member name="M:Forxap.AddonName.UI.Win.Sb1MetaData.AddMenus">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="M:Forxap.AddonName.UI.Win.Program.Main(System.String[])">
+            <summary>
+            The main entry point for the application.
+            </summary>
+        </member>
+        <member name="F:Forxap.AddonName.UI.Constans.AddonWinForms.frmParametros">
+            <summary>
+            
+            </summary>
+        </member>
+    </members>
+</doc>

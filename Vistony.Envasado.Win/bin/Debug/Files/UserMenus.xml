@@ -1,0 +1,12 @@
+<Application>
+  <Menus>
+    <action type="add">
+      <Menu Checked="0" Enabled="1" FatherUID="43544" Image="" Position="5" String="Asistente de Asignación TI" Type="1" UniqueID="vis_FrmAsiTI"> </Menu>
+
+     <!-- <Menu Checked="0" Enabled="1" FatherUID="3072" Image="" Position="5" String="Inventario de Equipos TI" Type="1" UniqueID="vis_FrmAsigAlm"> </Menu>
+      
+      <Menu Checked="0" Enabled="1" FatherUID="43544" Image="" Position="6" String="Solicitud de Activo Fijo" Type="1" UniqueID="vis_FrmSoliNoti"> </Menu>
+      -->
+    </action>
+  </Menus>
+</Application>

@@ -1,0 +1,22 @@
+D:\Desarrollo\Evaluacion de Rentabilidad  de Reparto\Evaluacion de Rentabilidad  de Reparto\Vistony.Evaluacion_Rentabilidad.BLL\bin\Debug\Vistony.AddonName.BLL.dll
+D:\Desarrollo\Evaluacion de Rentabilidad  de Reparto\Evaluacion de Rentabilidad  de Reparto\Vistony.Evaluacion_Rentabilidad.BLL\bin\Debug\Vistony.AddonName.BLL.pdb
+D:\Desarrollo\Evaluacion de Rentabilidad  de Reparto\Evaluacion de Rentabilidad  de Reparto\Vistony.Evaluacion_Rentabilidad.BLL\bin\Debug\SAPBusinessOneSDK.dll
+D:\Desarrollo\Evaluacion de Rentabilidad  de Reparto\Evaluacion de Rentabilidad  de Reparto\Vistony.Evaluacion_Rentabilidad.BLL\bin\Debug\Vistony.AddonName.BO.dll
+D:\Desarrollo\Evaluacion de Rentabilidad  de Reparto\Evaluacion de Rentabilidad  de Reparto\Vistony.Evaluacion_Rentabilidad.BLL\bin\Debug\Vistony.AddonName.DAL.dll
+D:\Desarrollo\Evaluacion de Rentabilidad  de Reparto\Evaluacion de Rentabilidad  de Reparto\Vistony.Evaluacion_Rentabilidad.BLL\bin\Debug\Forxap.Framework.dll
+D:\Desarrollo\Evaluacion de Rentabilidad  de Reparto\Evaluacion de Rentabilidad  de Reparto\Vistony.Evaluacion_Rentabilidad.BLL\bin\Debug\Vistony.AddonName.BO.pdb
+D:\Desarrollo\Evaluacion de Rentabilidad  de Reparto\Evaluacion de Rentabilidad  de Reparto\Vistony.Evaluacion_Rentabilidad.BLL\bin\Debug\Vistony.AddonName.DAL.pdb
+D:\Desarrollo\Evaluacion de Rentabilidad  de Reparto\Evaluacion de Rentabilidad  de Reparto\Vistony.Evaluacion_Rentabilidad.BLL\obj\Debug\Vistony.Rentabilidad.BLL.csprojResolveAssemblyReference.cache
+D:\Desarrollo\Evaluacion de Rentabilidad  de Reparto\Evaluacion de Rentabilidad  de Reparto\Vistony.Evaluacion_Rentabilidad.BLL\obj\Debug\Vistony.AddonName.BLL.dll
+D:\Desarrollo\Evaluacion de Rentabilidad  de Reparto\Evaluacion de Rentabilidad  de Reparto\Vistony.Evaluacion_Rentabilidad.BLL\obj\Debug\Vistony.AddonName.BLL.pdb
+D:\William\Evaluacion de Rentabilidad  de Reparto\Envasado\Vistony.Evaluacion_Rentabilidad.BLL\bin\Debug\Vistony.AddonName.BLL.dll
+D:\William\Evaluacion de Rentabilidad  de Reparto\Envasado\Vistony.Evaluacion_Rentabilidad.BLL\bin\Debug\Vistony.AddonName.BLL.pdb
+D:\William\Evaluacion de Rentabilidad  de Reparto\Envasado\Vistony.Evaluacion_Rentabilidad.BLL\bin\Debug\SAPBusinessOneSDK.dll
+D:\William\Evaluacion de Rentabilidad  de Reparto\Envasado\Vistony.Evaluacion_Rentabilidad.BLL\bin\Debug\Vistony.AddonName.BO.dll
+D:\William\Evaluacion de Rentabilidad  de Reparto\Envasado\Vistony.Evaluacion_Rentabilidad.BLL\bin\Debug\Vistony.AddonName.DAL.dll
+D:\William\Evaluacion de Rentabilidad  de Reparto\Envasado\Vistony.Evaluacion_Rentabilidad.BLL\bin\Debug\Forxap.Framework.dll
+D:\William\Evaluacion de Rentabilidad  de Reparto\Envasado\Vistony.Evaluacion_Rentabilidad.BLL\bin\Debug\Vistony.AddonName.BO.pdb
+D:\William\Evaluacion de Rentabilidad  de Reparto\Envasado\Vistony.Evaluacion_Rentabilidad.BLL\bin\Debug\Vistony.AddonName.DAL.pdb
+D:\William\Evaluacion de Rentabilidad  de Reparto\Envasado\Vistony.Evaluacion_Rentabilidad.BLL\obj\Debug\Vistony.Rentabilidad.BLL.csprojResolveAssemblyReference.cache
+D:\William\Evaluacion de Rentabilidad  de Reparto\Envasado\Vistony.Evaluacion_Rentabilidad.BLL\obj\Debug\Vistony.AddonName.BLL.dll
+D:\William\Evaluacion de Rentabilidad  de Reparto\Envasado\Vistony.Evaluacion_Rentabilidad.BLL\obj\Debug\Vistony.AddonName.BLL.pdb

@@ -1,0 +1,246 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{6014541C-7256-42EF-99C0-A87035730D05}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Vistony.AddonName.Win</RootNamespace>
+    <AssemblyName>Vistony.AddonName.Win</AssemblyName>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <TargetFrameworkProfile />
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <PublishUrl>publicar\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <DocumentationFile>bin\Debug\Vistony.AddonName.Win.xml</DocumentationFile>
+    <PlatformTarget>x64</PlatformTarget>
+    <Prefer32Bit>true</Prefer32Bit>
+    <RunCodeAnalysis>false</RunCodeAnalysis>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <StartupObject>Forxap.AddonName.UI.Win.Program</StartupObject>
+  </PropertyGroup>
+  <PropertyGroup>
+    <NoWin32Manifest>true</NoWin32Manifest>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Forxap.Framework, Version=1.0.0.4, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\..\..\Framework\DLL\Forxap.Framework.dll</HintPath>
+    </Reference>
+    <Reference Include="Forxap.Framework.ServiceLayer, Version=1.0.0.1, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\..\..\Framework\DLL\Forxap.Framework.ServiceLayer.dll</HintPath>
+    </Reference>
+    <Reference Include="Forxap.Framework.Utils, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\Framework\DLL\Forxap.Framework.Utils.dll</HintPath>
+    </Reference>
+    <Reference Include="ICSharpCode.SharpZipLib, Version=0.86.0.518, Culture=neutral, PublicKeyToken=1b03e6acf1164f73, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\Forxap.Framework\bin\Release\x64\ICSharpCode.SharpZipLib.dll</HintPath>
+    </Reference>
+    <Reference Include="Newtonsoft.Json, Version=9.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\AddDistribucion\packages\Newtonsoft.Json.13.0.1\lib\net20\Newtonsoft.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="RestSharp, Version=106.12.0.0, Culture=neutral, PublicKeyToken=598062e77f915f75, processorArchitecture=MSIL">
+      <HintPath>..\packages\RestSharp.106.12.0\lib\net452\RestSharp.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="SAPBusinessOneSDK, Version=1.0.0.1, Culture=neutral, PublicKeyToken=c7c3cb60e45d119f, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>C:\Program Files\sap\SAP Business One\SAPBusinessOneSDK.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Web.Extensions" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Asistentes\FrmAsignar.b1f.cs">
+      <DependentUpon>FrmAsignar.b1f</DependentUpon>
+    </Compile>
+    <Compile Include="Asistentes\FrmAsistenteAsignacionTI.b1f.cs">
+      <DependentUpon>FrmAsistenteAsignacionTI.b1f</DependentUpon>
+    </Compile>
+    <Compile Include="Asistentes\FrmSerieActivos.b1f.cs">
+      <DependentUpon>FrmSerieActivos.b1f</DependentUpon>
+    </Compile>
+    <Compile Include="BaseUDOForm.b1f.cs">
+      <DependentUpon>BaseUDOForm.b1f</DependentUpon>
+    </Compile>
+    <Compile Include="ApplicationEvents.cs" />
+    <Compile Include="Connection.cs" />
+    <Compile Include="Configuracion\frmBase.b1f.cs" />
+    <Compile Include="Configuracion\frmParametrizacion.b1f.cs">
+      <DependentUpon>frmParametrizacion.b1f</DependentUpon>
+    </Compile>
+    <Compile Include="Constans\LayoutForms .cs" />
+    <Compile Include="Constans\MenuItem.cs" />
+    <Compile Include="Constans\MessageInfo.cs" />
+    <Compile Include="Constans\UserFile.cs" />
+    <Compile Include="Constans\UserObjects.cs" />
+    <Compile Include="Constans\UserTables.cs" />
+    <Compile Include="Constans\WinForms.cs" />
+    <Compile Include="FormDataEvent.cs" />
+    <Compile Include="FormMenuEvent.cs" />
+    <Compile Include="Globals.cs" />
+    <Compile Include="ItemEvent.cs" />
+    <Compile Include="Maestros\OHEM.b1f.cs">
+      <DependentUpon>OHEM.b1f</DependentUpon>
+    </Compile>
+    <Compile Include="MainMenuEvent.cs" />
+    <Compile Include="MetaData.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Utils.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="app.config">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Asistentes\FrmAsignar.b1f">
+      <FormCategory>UserForm</FormCategory>
+    </None>
+    <None Include="Asistentes\FrmAsistenteAsignacionTI.b1f">
+      <FormCategory>UserForm</FormCategory>
+    </None>
+    <None Include="Asistentes\FrmSerieActivos.b1f">
+      <FormCategory>UserForm</FormCategory>
+    </None>
+    <None Include="BaseUDOForm.b1f">
+      <FormCategory>UserForm</FormCategory>
+    </None>
+    <None Include="Configuracion\frmBase.b1f">
+      <FormCategory>UserForm</FormCategory>
+    </None>
+    <None Include="Configuracion\frmParametrizacion.b1f">
+      <FormCategory>UserForm</FormCategory>
+    </None>
+    <None Include="Maestros\OHEM.b1f">
+      <FormCategory>SystemForm</FormCategory>
+    </None>
+    <None Include="Maestros\OHEM.b1f__orig_srf">
+      <DependentUpon>OHEM.b1f</DependentUpon>
+    </None>
+    <None Include="packages.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="bin\Debug\Scripts\Hana\" />
+    <Folder Include="bin\Debug\Scripts\SQL\" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="bin\Debug\Files\Texto_Correo - Accesos.txt" />
+    <Content Include="bin\Debug\Files\Texto_Correo - Respuesta Acceso.txt" />
+    <Content Include="bin\Debug\Files\Texto_Correo - Respuesta.txt" />
+    <Content Include="bin\Debug\Files\UserFields.xml">
+      <SubType>Designer</SubType>
+    </Content>
+    <Content Include="bin\Debug\Files\UserMenus.xml">
+      <SubType>Designer</SubType>
+    </Content>
+    <Content Include="bin\Debug\Files\UserObjects.xml">
+      <SubType>Designer</SubType>
+    </Content>
+    <Content Include="bin\Debug\Files\UserPermissions.xml" />
+    <Content Include="bin\Debug\Files\UserScripts.xml">
+      <SubType>Designer</SubType>
+    </Content>
+    <Content Include="bin\Debug\Files\UserTables.xml">
+      <SubType>Designer</SubType>
+    </Content>
+    <Content Include="bin\Debug\Images\AddonIcon.png" />
+    <Content Include="bin\Debug\Images\Wizard.JPG" />
+    <Content Include="bin\Debug\Files\Texto_Correo.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Vistony.Envasado.BLL\Vistony.AsignacionRRHH.BLL.csproj">
+      <Project>{62869991-12b4-49f2-9a78-69a3f385e017}</Project>
+      <Name>Vistony.AsignacionRRHH.BLL</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Vistony.Envasado.BO\Vistony.AsignacionRRHH.BO.csproj">
+      <Project>{939FE266-735B-4A4C-A5F2-696CD98A1270}</Project>
+      <Name>Vistony.AsignacionRRHH.BO</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Vistony.Envasado.DAL\Vistony.AsignacionRRHH.DAL.csproj">
+      <Project>{FE704F41-B43C-4A5B-80E4-88B411C4BC64}</Project>
+      <Name>Vistony.AsignacionRRHH.DAL</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Service References\" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.5.2">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.5.2 %28x86 y x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

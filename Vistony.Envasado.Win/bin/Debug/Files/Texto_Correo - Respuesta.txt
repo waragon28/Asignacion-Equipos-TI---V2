@@ -1,0 +1,13 @@
+----------------- Por favor no responda sobre esta linea ---------------
+
+
+SOLICITUD ACTUALIZADA
+
+ Estimado/a @Asignador
+
+Se Actualizo la solicitud con numero de documento @NumDocumento, los articulos Aprobados son:
+
+@Detalle
+
+
+Gracias

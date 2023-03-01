@@ -1,0 +1,47 @@
+D:\William\Evaluacion de Rentabilidad  de Reparto\Envasado\Vistony.Evaluacion_Rentabilidad.DAL\bin\Debug\Vistony.AddonName.DAL.dll
+D:\William\Evaluacion de Rentabilidad  de Reparto\Envasado\Vistony.Evaluacion_Rentabilidad.DAL\bin\Debug\Vistony.AddonName.DAL.pdb
+D:\William\Evaluacion de Rentabilidad  de Reparto\Envasado\Vistony.Evaluacion_Rentabilidad.DAL\bin\Debug\Forxap.Framework.dll
+D:\William\Evaluacion de Rentabilidad  de Reparto\Envasado\Vistony.Evaluacion_Rentabilidad.DAL\bin\Debug\Newtonsoft.Json.dll
+D:\William\Evaluacion de Rentabilidad  de Reparto\Envasado\Vistony.Evaluacion_Rentabilidad.DAL\bin\Debug\RestSharp.dll
+D:\William\Evaluacion de Rentabilidad  de Reparto\Envasado\Vistony.Evaluacion_Rentabilidad.DAL\bin\Debug\SAPBusinessOneSDK.dll
+D:\William\Evaluacion de Rentabilidad  de Reparto\Envasado\Vistony.Evaluacion_Rentabilidad.DAL\bin\Debug\Vistony.AddonName.BO.dll
+D:\William\Evaluacion de Rentabilidad  de Reparto\Envasado\Vistony.Evaluacion_Rentabilidad.DAL\bin\Debug\Vistony.AddonName.BO.pdb
+D:\William\Evaluacion de Rentabilidad  de Reparto\Envasado\Vistony.Evaluacion_Rentabilidad.DAL\bin\Debug\RestSharp.xml
+D:\William\Evaluacion de Rentabilidad  de Reparto\Envasado\Vistony.Evaluacion_Rentabilidad.DAL\obj\Debug\Vistony.AddonName.DAL.dll
+D:\William\Evaluacion de Rentabilidad  de Reparto\Envasado\Vistony.Evaluacion_Rentabilidad.DAL\obj\Debug\Vistony.AddonName.DAL.pdb
+D:\Desarrollo\Add-Ons Interfase resgistro de Envasado\Vistony.Evaluacion_Rentabilidad.DAL\bin\Debug\Vistony.AddonName.DAL.dll
+D:\Desarrollo\Add-Ons Interfase resgistro de Envasado\Vistony.Evaluacion_Rentabilidad.DAL\bin\Debug\Vistony.AddonName.DAL.pdb
+D:\Desarrollo\Add-Ons Interfase resgistro de Envasado\Vistony.Evaluacion_Rentabilidad.DAL\bin\Debug\Forxap.Framework.dll
+D:\Desarrollo\Add-Ons Interfase resgistro de Envasado\Vistony.Evaluacion_Rentabilidad.DAL\bin\Debug\Newtonsoft.Json.dll
+D:\Desarrollo\Add-Ons Interfase resgistro de Envasado\Vistony.Evaluacion_Rentabilidad.DAL\bin\Debug\RestSharp.dll
+D:\Desarrollo\Add-Ons Interfase resgistro de Envasado\Vistony.Evaluacion_Rentabilidad.DAL\bin\Debug\SAPBusinessOneSDK.dll
+D:\Desarrollo\Add-Ons Interfase resgistro de Envasado\Vistony.Evaluacion_Rentabilidad.DAL\bin\Debug\Vistony.AddonName.BO.dll
+D:\Desarrollo\Add-Ons Interfase resgistro de Envasado\Vistony.Evaluacion_Rentabilidad.DAL\bin\Debug\Vistony.AddonName.BO.pdb
+D:\Desarrollo\Add-Ons Interfase resgistro de Envasado\Vistony.Evaluacion_Rentabilidad.DAL\bin\Debug\RestSharp.xml
+D:\Desarrollo\Add-Ons Interfase resgistro de Envasado\Vistony.Evaluacion_Rentabilidad.DAL\obj\Debug\Vistony.Envasado.DAL.csprojResolveAssemblyReference.cache
+D:\Desarrollo\Add-Ons Interfase resgistro de Envasado\Vistony.Evaluacion_Rentabilidad.DAL\obj\Debug\Vistony.AddonName.DAL.dll
+D:\Desarrollo\Add-Ons Interfase resgistro de Envasado\Vistony.Evaluacion_Rentabilidad.DAL\obj\Debug\Vistony.AddonName.DAL.pdb
+D:\Desarrollo\Add-Ons Interfase resgistro de Envasado\Vistony.Envasado.DAL\bin\Debug\Vistony.AddonName.DAL.dll
+D:\Desarrollo\Add-Ons Interfase resgistro de Envasado\Vistony.Envasado.DAL\bin\Debug\Vistony.AddonName.DAL.pdb
+D:\Desarrollo\Add-Ons Interfase resgistro de Envasado\Vistony.Envasado.DAL\bin\Debug\Forxap.Framework.dll
+D:\Desarrollo\Add-Ons Interfase resgistro de Envasado\Vistony.Envasado.DAL\bin\Debug\Newtonsoft.Json.dll
+D:\Desarrollo\Add-Ons Interfase resgistro de Envasado\Vistony.Envasado.DAL\bin\Debug\RestSharp.dll
+D:\Desarrollo\Add-Ons Interfase resgistro de Envasado\Vistony.Envasado.DAL\bin\Debug\SAPBusinessOneSDK.dll
+D:\Desarrollo\Add-Ons Interfase resgistro de Envasado\Vistony.Envasado.DAL\bin\Debug\Vistony.AddonName.BO.dll
+D:\Desarrollo\Add-Ons Interfase resgistro de Envasado\Vistony.Envasado.DAL\bin\Debug\Vistony.AddonName.BO.pdb
+D:\Desarrollo\Add-Ons Interfase resgistro de Envasado\Vistony.Envasado.DAL\bin\Debug\RestSharp.xml
+D:\Desarrollo\Add-Ons Interfase resgistro de Envasado\Vistony.Envasado.DAL\obj\Debug\Vistony.Envasado.DAL.csprojResolveAssemblyReference.cache
+D:\Desarrollo\Add-Ons Interfase resgistro de Envasado\Vistony.Envasado.DAL\obj\Debug\Vistony.AddonName.DAL.dll
+D:\Desarrollo\Add-Ons Interfase resgistro de Envasado\Vistony.Envasado.DAL\obj\Debug\Vistony.AddonName.DAL.pdb
+D:\Desarrollo\Recursos Humanos - copia\Add-Ons Interfase resgistro de Envasado\Vistony.Envasado.DAL\bin\Debug\Vistony.AddonName.DAL.dll
+D:\Desarrollo\Recursos Humanos - copia\Add-Ons Interfase resgistro de Envasado\Vistony.Envasado.DAL\bin\Debug\Vistony.AddonName.DAL.pdb
+D:\Desarrollo\Recursos Humanos - copia\Add-Ons Interfase resgistro de Envasado\Vistony.Envasado.DAL\bin\Debug\Forxap.Framework.dll
+D:\Desarrollo\Recursos Humanos - copia\Add-Ons Interfase resgistro de Envasado\Vistony.Envasado.DAL\bin\Debug\Newtonsoft.Json.dll
+D:\Desarrollo\Recursos Humanos - copia\Add-Ons Interfase resgistro de Envasado\Vistony.Envasado.DAL\bin\Debug\RestSharp.dll
+D:\Desarrollo\Recursos Humanos - copia\Add-Ons Interfase resgistro de Envasado\Vistony.Envasado.DAL\bin\Debug\SAPBusinessOneSDK.dll
+D:\Desarrollo\Recursos Humanos - copia\Add-Ons Interfase resgistro de Envasado\Vistony.Envasado.DAL\bin\Debug\Vistony.AddonName.BO.dll
+D:\Desarrollo\Recursos Humanos - copia\Add-Ons Interfase resgistro de Envasado\Vistony.Envasado.DAL\bin\Debug\Vistony.AddonName.BO.pdb
+D:\Desarrollo\Recursos Humanos - copia\Add-Ons Interfase resgistro de Envasado\Vistony.Envasado.DAL\bin\Debug\RestSharp.xml
+D:\Desarrollo\Recursos Humanos - copia\Add-Ons Interfase resgistro de Envasado\Vistony.Envasado.DAL\obj\Debug\Vistony.Envasado.DAL.csprojResolveAssemblyReference.cache
+D:\Desarrollo\Recursos Humanos - copia\Add-Ons Interfase resgistro de Envasado\Vistony.Envasado.DAL\obj\Debug\Vistony.AddonName.DAL.dll
+D:\Desarrollo\Recursos Humanos - copia\Add-Ons Interfase resgistro de Envasado\Vistony.Envasado.DAL\obj\Debug\Vistony.AddonName.DAL.pdb

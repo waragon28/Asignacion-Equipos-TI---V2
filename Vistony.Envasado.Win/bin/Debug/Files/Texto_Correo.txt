@@ -1,0 +1,18 @@
+----------------- Por favor no responda sobre esta linea ---------------
+
+
+NUEVA SOLICITUD
+
+ Estimado/a @Aprobador
+
+
+Yo @Solicitante, genere una nueva solicitud con el numero de documento @NumDocumento solicitando su aprobación para asignar los equipos detallados a continuación
+
+
+@Detalle
+
+
+a @NombreEmpleado el cual tiene como motivo de asignación @MotivoAsignacion
+
+
+Gracias

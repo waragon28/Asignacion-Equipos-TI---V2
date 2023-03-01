@@ -1,0 +1,27 @@
+D:\Desarrollo\Recursos Humanos\Recursos Humanos\Vistony.Envasado.BO\bin\Debug\Vistony.AddonName.BO.dll
+D:\Desarrollo\Recursos Humanos\Recursos Humanos\Vistony.Envasado.BO\bin\Debug\Vistony.AddonName.BO.pdb
+D:\Desarrollo\Recursos Humanos\Recursos Humanos\Vistony.Envasado.BO\obj\Debug\Vistony.AddonName.BO.dll
+D:\Desarrollo\Recursos Humanos\Recursos Humanos\Vistony.Envasado.BO\obj\Debug\Vistony.AddonName.BO.pdb
+D:\Desarrollo\Recursos Humanos\Recursos Humanos\Vistony.Envasado.BO\obj\Debug\Vistony.AsignacionRRHH.BO.csprojResolveAssemblyReference.cache
+D:\Desarrollo\Asignacion Equipos TI\Recursos Humanos\Recursos Humanos\Vistony.Envasado.BO\bin\Debug\Vistony.AddonName.BO.dll
+D:\Desarrollo\Asignacion Equipos TI\Recursos Humanos\Recursos Humanos\Vistony.Envasado.BO\bin\Debug\Vistony.AddonName.BO.pdb
+D:\Desarrollo\Asignacion Equipos TI\Recursos Humanos\Recursos Humanos\Vistony.Envasado.BO\obj\Debug\Vistony.AddonName.BO.dll
+D:\Desarrollo\Asignacion Equipos TI\Recursos Humanos\Recursos Humanos\Vistony.Envasado.BO\obj\Debug\Vistony.AddonName.BO.pdb
+D:\Desarrollo\Asignacion Equipos TI\Recursos Humanos\Recursos Humanos\Vistony.Envasado.BO\obj\Debug\Vistony.AsignacionRRHH.BO.csprojResolveAssemblyReference.cache
+D:\Desarrollo\Asignacion Equipos TI\Recursos Humanos\Recursos Humanos\Recursos Humanos\Vistony.Envasado.BO\bin\Debug\Vistony.AddonName.BO.dll
+D:\Desarrollo\Asignacion Equipos TI\Recursos Humanos\Recursos Humanos\Recursos Humanos\Vistony.Envasado.BO\bin\Debug\Vistony.AddonName.BO.pdb
+D:\Desarrollo\Asignacion Equipos TI\Recursos Humanos\Recursos Humanos\Recursos Humanos\Vistony.Envasado.BO\obj\Debug\Vistony.AsignacionRRHH.BO.csprojResolveAssemblyReference.cache
+D:\Desarrollo\Asignacion Equipos TI\Recursos Humanos\Recursos Humanos\Recursos Humanos\Vistony.Envasado.BO\obj\Debug\Vistony.AddonName.BO.dll
+D:\Desarrollo\Asignacion Equipos TI\Recursos Humanos\Recursos Humanos\Recursos Humanos\Vistony.Envasado.BO\obj\Debug\Vistony.AddonName.BO.pdb
+D:\Desarrollo\Asignacion Equipos TI\Recursos Humanos\Vistony.Envasado.BO\bin\Debug\Vistony.AddonName.BO.dll
+D:\Desarrollo\Asignacion Equipos TI\Recursos Humanos\Vistony.Envasado.BO\bin\Debug\Vistony.AddonName.BO.pdb
+D:\Desarrollo\Asignacion Equipos TI\Recursos Humanos\Vistony.Envasado.BO\bin\Debug\SAPBusinessOneSDK.dll
+D:\Desarrollo\Asignacion Equipos TI\Recursos Humanos\Vistony.Envasado.BO\obj\Debug\Vistony.AddonName.BO.dll
+D:\Desarrollo\Asignacion Equipos TI\Recursos Humanos\Vistony.Envasado.BO\obj\Debug\Vistony.AddonName.BO.pdb
+D:\Desarrollo\Asignacion Equipos TI\Recursos Humanos\Vistony.Envasado.BO\obj\Debug\Vistony.AsignacionRRHH.BO.csprojResolveAssemblyReference.cache
+D:\Desarrollo\Asignacion Equipos TI - V2\Recursos Humanos\Vistony.Envasado.BO\bin\Debug\Vistony.AddonName.BO.dll
+D:\Desarrollo\Asignacion Equipos TI - V2\Recursos Humanos\Vistony.Envasado.BO\bin\Debug\Vistony.AddonName.BO.pdb
+D:\Desarrollo\Asignacion Equipos TI - V2\Recursos Humanos\Vistony.Envasado.BO\bin\Debug\SAPBusinessOneSDK.dll
+D:\Desarrollo\Asignacion Equipos TI - V2\Recursos Humanos\Vistony.Envasado.BO\obj\Debug\Vistony.AsignacionRRHH.BO.csprojResolveAssemblyReference.cache
+D:\Desarrollo\Asignacion Equipos TI - V2\Recursos Humanos\Vistony.Envasado.BO\obj\Debug\Vistony.AddonName.BO.dll
+D:\Desarrollo\Asignacion Equipos TI - V2\Recursos Humanos\Vistony.Envasado.BO\obj\Debug\Vistony.AddonName.BO.pdb

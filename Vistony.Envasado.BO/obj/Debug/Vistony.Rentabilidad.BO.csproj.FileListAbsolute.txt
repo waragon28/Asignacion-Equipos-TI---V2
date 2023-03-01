@@ -1,0 +1,10 @@
+D:\Desarrollo\Evaluacion de Rentabilidad  de Reparto\Evaluacion de Rentabilidad  de Reparto\Vistony.Evaluacion_Rentabilidad.BO\bin\Debug\Vistony.AddonName.BO.dll
+D:\Desarrollo\Evaluacion de Rentabilidad  de Reparto\Evaluacion de Rentabilidad  de Reparto\Vistony.Evaluacion_Rentabilidad.BO\bin\Debug\Vistony.AddonName.BO.pdb
+D:\Desarrollo\Evaluacion de Rentabilidad  de Reparto\Evaluacion de Rentabilidad  de Reparto\Vistony.Evaluacion_Rentabilidad.BO\obj\Debug\Vistony.AddonName.BO.dll
+D:\Desarrollo\Evaluacion de Rentabilidad  de Reparto\Evaluacion de Rentabilidad  de Reparto\Vistony.Evaluacion_Rentabilidad.BO\obj\Debug\Vistony.AddonName.BO.pdb
+D:\Desarrollo\Evaluacion de Rentabilidad  de Reparto\Evaluacion de Rentabilidad  de Reparto\Vistony.Evaluacion_Rentabilidad.BO\obj\Debug\Vistony.Rentabilidad.BO.csprojResolveAssemblyReference.cache
+D:\William\Evaluacion de Rentabilidad  de Reparto\Envasado\Vistony.Evaluacion_Rentabilidad.BO\bin\Debug\Vistony.AddonName.BO.dll
+D:\William\Evaluacion de Rentabilidad  de Reparto\Envasado\Vistony.Evaluacion_Rentabilidad.BO\bin\Debug\Vistony.AddonName.BO.pdb
+D:\William\Evaluacion de Rentabilidad  de Reparto\Envasado\Vistony.Evaluacion_Rentabilidad.BO\obj\Debug\Vistony.AddonName.BO.dll
+D:\William\Evaluacion de Rentabilidad  de Reparto\Envasado\Vistony.Evaluacion_Rentabilidad.BO\obj\Debug\Vistony.AddonName.BO.pdb
+D:\William\Evaluacion de Rentabilidad  de Reparto\Envasado\Vistony.Evaluacion_Rentabilidad.BO\obj\Debug\Vistony.Rentabilidad.BO.csprojResolveAssemblyReference.cache

@@ -1,0 +1,14 @@
+D:\Desarrollo\Add-Ons Interfase resgistro de Envasado\Vistony.Evaluacion_Rentabilidad.BO\bin\Debug\Vistony.AddonName.BO.dll
+D:\Desarrollo\Add-Ons Interfase resgistro de Envasado\Vistony.Evaluacion_Rentabilidad.BO\bin\Debug\Vistony.AddonName.BO.pdb
+D:\Desarrollo\Add-Ons Interfase resgistro de Envasado\Vistony.Evaluacion_Rentabilidad.BO\obj\Debug\Vistony.Envasado.BO.csprojResolveAssemblyReference.cache
+D:\Desarrollo\Add-Ons Interfase resgistro de Envasado\Vistony.Evaluacion_Rentabilidad.BO\obj\Debug\Vistony.AddonName.BO.dll
+D:\Desarrollo\Add-Ons Interfase resgistro de Envasado\Vistony.Evaluacion_Rentabilidad.BO\obj\Debug\Vistony.AddonName.BO.pdb
+D:\Desarrollo\Add-Ons Interfase resgistro de Envasado\Vistony.Envasado.BO\bin\Debug\Vistony.AddonName.BO.dll
+D:\Desarrollo\Add-Ons Interfase resgistro de Envasado\Vistony.Envasado.BO\bin\Debug\Vistony.AddonName.BO.pdb
+D:\Desarrollo\Add-Ons Interfase resgistro de Envasado\Vistony.Envasado.BO\obj\Debug\Vistony.AddonName.BO.dll
+D:\Desarrollo\Add-Ons Interfase resgistro de Envasado\Vistony.Envasado.BO\obj\Debug\Vistony.AddonName.BO.pdb
+D:\Desarrollo\Recursos Humanos - copia\Add-Ons Interfase resgistro de Envasado\Vistony.Envasado.BO\bin\Debug\Vistony.AddonName.BO.dll
+D:\Desarrollo\Recursos Humanos - copia\Add-Ons Interfase resgistro de Envasado\Vistony.Envasado.BO\bin\Debug\Vistony.AddonName.BO.pdb
+D:\Desarrollo\Recursos Humanos - copia\Add-Ons Interfase resgistro de Envasado\Vistony.Envasado.BO\obj\Debug\Vistony.AddonName.BO.dll
+D:\Desarrollo\Recursos Humanos - copia\Add-Ons Interfase resgistro de Envasado\Vistony.Envasado.BO\obj\Debug\Vistony.AddonName.BO.pdb
+D:\Desarrollo\Recursos Humanos - copia\Add-Ons Interfase resgistro de Envasado\Vistony.Envasado.BO\obj\Debug\Vistony.Envasado.BO.csprojResolveAssemblyReference.cache

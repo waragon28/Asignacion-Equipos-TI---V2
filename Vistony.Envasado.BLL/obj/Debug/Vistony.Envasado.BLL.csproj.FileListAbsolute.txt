@@ -1,0 +1,44 @@
+D:\William\Evaluacion de Rentabilidad  de Reparto\Envasado\Vistony.Evaluacion_Rentabilidad.BLL\bin\Debug\Vistony.AddonName.BLL.dll
+D:\William\Evaluacion de Rentabilidad  de Reparto\Envasado\Vistony.Evaluacion_Rentabilidad.BLL\bin\Debug\Vistony.AddonName.BLL.pdb
+D:\William\Evaluacion de Rentabilidad  de Reparto\Envasado\Vistony.Evaluacion_Rentabilidad.BLL\bin\Debug\SAPBusinessOneSDK.dll
+D:\William\Evaluacion de Rentabilidad  de Reparto\Envasado\Vistony.Evaluacion_Rentabilidad.BLL\bin\Debug\Vistony.AddonName.BO.dll
+D:\William\Evaluacion de Rentabilidad  de Reparto\Envasado\Vistony.Evaluacion_Rentabilidad.BLL\bin\Debug\Vistony.AddonName.DAL.dll
+D:\William\Evaluacion de Rentabilidad  de Reparto\Envasado\Vistony.Evaluacion_Rentabilidad.BLL\bin\Debug\Forxap.Framework.dll
+D:\William\Evaluacion de Rentabilidad  de Reparto\Envasado\Vistony.Evaluacion_Rentabilidad.BLL\bin\Debug\Vistony.AddonName.BO.pdb
+D:\William\Evaluacion de Rentabilidad  de Reparto\Envasado\Vistony.Evaluacion_Rentabilidad.BLL\bin\Debug\Vistony.AddonName.DAL.pdb
+D:\William\Evaluacion de Rentabilidad  de Reparto\Envasado\Vistony.Evaluacion_Rentabilidad.BLL\obj\Debug\Vistony.Envasado.BLL.csprojResolveAssemblyReference.cache
+D:\William\Evaluacion de Rentabilidad  de Reparto\Envasado\Vistony.Evaluacion_Rentabilidad.BLL\obj\Debug\Vistony.AddonName.BLL.dll
+D:\William\Evaluacion de Rentabilidad  de Reparto\Envasado\Vistony.Evaluacion_Rentabilidad.BLL\obj\Debug\Vistony.AddonName.BLL.pdb
+D:\Desarrollo\Add-Ons Interfase resgistro de Envasado\Vistony.Evaluacion_Rentabilidad.BLL\bin\Debug\Vistony.AddonName.BLL.dll
+D:\Desarrollo\Add-Ons Interfase resgistro de Envasado\Vistony.Evaluacion_Rentabilidad.BLL\bin\Debug\Vistony.AddonName.BLL.pdb
+D:\Desarrollo\Add-Ons Interfase resgistro de Envasado\Vistony.Evaluacion_Rentabilidad.BLL\bin\Debug\SAPBusinessOneSDK.dll
+D:\Desarrollo\Add-Ons Interfase resgistro de Envasado\Vistony.Evaluacion_Rentabilidad.BLL\bin\Debug\Vistony.AddonName.BO.dll
+D:\Desarrollo\Add-Ons Interfase resgistro de Envasado\Vistony.Evaluacion_Rentabilidad.BLL\bin\Debug\Vistony.AddonName.DAL.dll
+D:\Desarrollo\Add-Ons Interfase resgistro de Envasado\Vistony.Evaluacion_Rentabilidad.BLL\bin\Debug\Forxap.Framework.dll
+D:\Desarrollo\Add-Ons Interfase resgistro de Envasado\Vistony.Evaluacion_Rentabilidad.BLL\bin\Debug\Vistony.AddonName.BO.pdb
+D:\Desarrollo\Add-Ons Interfase resgistro de Envasado\Vistony.Evaluacion_Rentabilidad.BLL\bin\Debug\Vistony.AddonName.DAL.pdb
+D:\Desarrollo\Add-Ons Interfase resgistro de Envasado\Vistony.Evaluacion_Rentabilidad.BLL\obj\Debug\Vistony.Envasado.BLL.csprojResolveAssemblyReference.cache
+D:\Desarrollo\Add-Ons Interfase resgistro de Envasado\Vistony.Evaluacion_Rentabilidad.BLL\obj\Debug\Vistony.AddonName.BLL.dll
+D:\Desarrollo\Add-Ons Interfase resgistro de Envasado\Vistony.Evaluacion_Rentabilidad.BLL\obj\Debug\Vistony.AddonName.BLL.pdb
+D:\Desarrollo\Add-Ons Interfase resgistro de Envasado\Vistony.Envasado.BLL\bin\Debug\Vistony.AddonName.BLL.dll
+D:\Desarrollo\Add-Ons Interfase resgistro de Envasado\Vistony.Envasado.BLL\bin\Debug\Vistony.AddonName.BLL.pdb
+D:\Desarrollo\Add-Ons Interfase resgistro de Envasado\Vistony.Envasado.BLL\bin\Debug\SAPBusinessOneSDK.dll
+D:\Desarrollo\Add-Ons Interfase resgistro de Envasado\Vistony.Envasado.BLL\bin\Debug\Vistony.AddonName.BO.dll
+D:\Desarrollo\Add-Ons Interfase resgistro de Envasado\Vistony.Envasado.BLL\bin\Debug\Vistony.AddonName.DAL.dll
+D:\Desarrollo\Add-Ons Interfase resgistro de Envasado\Vistony.Envasado.BLL\bin\Debug\Forxap.Framework.dll
+D:\Desarrollo\Add-Ons Interfase resgistro de Envasado\Vistony.Envasado.BLL\bin\Debug\Vistony.AddonName.BO.pdb
+D:\Desarrollo\Add-Ons Interfase resgistro de Envasado\Vistony.Envasado.BLL\bin\Debug\Vistony.AddonName.DAL.pdb
+D:\Desarrollo\Add-Ons Interfase resgistro de Envasado\Vistony.Envasado.BLL\obj\Debug\Vistony.Envasado.BLL.csprojResolveAssemblyReference.cache
+D:\Desarrollo\Add-Ons Interfase resgistro de Envasado\Vistony.Envasado.BLL\obj\Debug\Vistony.AddonName.BLL.dll
+D:\Desarrollo\Add-Ons Interfase resgistro de Envasado\Vistony.Envasado.BLL\obj\Debug\Vistony.AddonName.BLL.pdb
+D:\Desarrollo\Recursos Humanos - copia\Add-Ons Interfase resgistro de Envasado\Vistony.Envasado.BLL\bin\Debug\Vistony.AddonName.BLL.dll
+D:\Desarrollo\Recursos Humanos - copia\Add-Ons Interfase resgistro de Envasado\Vistony.Envasado.BLL\bin\Debug\Vistony.AddonName.BLL.pdb
+D:\Desarrollo\Recursos Humanos - copia\Add-Ons Interfase resgistro de Envasado\Vistony.Envasado.BLL\bin\Debug\SAPBusinessOneSDK.dll
+D:\Desarrollo\Recursos Humanos - copia\Add-Ons Interfase resgistro de Envasado\Vistony.Envasado.BLL\bin\Debug\Vistony.AddonName.BO.dll
+D:\Desarrollo\Recursos Humanos - copia\Add-Ons Interfase resgistro de Envasado\Vistony.Envasado.BLL\bin\Debug\Vistony.AddonName.DAL.dll
+D:\Desarrollo\Recursos Humanos - copia\Add-Ons Interfase resgistro de Envasado\Vistony.Envasado.BLL\bin\Debug\Vistony.AddonName.BO.pdb
+D:\Desarrollo\Recursos Humanos - copia\Add-Ons Interfase resgistro de Envasado\Vistony.Envasado.BLL\bin\Debug\Vistony.AddonName.DAL.pdb
+D:\Desarrollo\Recursos Humanos - copia\Add-Ons Interfase resgistro de Envasado\Vistony.Envasado.BLL\obj\Debug\Vistony.Envasado.BLL.csprojResolveAssemblyReference.cache
+D:\Desarrollo\Recursos Humanos - copia\Add-Ons Interfase resgistro de Envasado\Vistony.Envasado.BLL\obj\Debug\Vistony.AddonName.BLL.dll
+D:\Desarrollo\Recursos Humanos - copia\Add-Ons Interfase resgistro de Envasado\Vistony.Envasado.BLL\obj\Debug\Vistony.AddonName.BLL.pdb
+D:\Desarrollo\Recursos Humanos - copia\Add-Ons Interfase resgistro de Envasado\Vistony.Envasado.BLL\bin\Debug\Forxap.Framework.dll

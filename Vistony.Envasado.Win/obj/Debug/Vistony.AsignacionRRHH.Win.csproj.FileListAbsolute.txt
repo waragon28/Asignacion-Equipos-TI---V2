@@ -1,0 +1,143 @@
+D:\Desarrollo\Recursos Humanos\Recursos Humanos\Vistony.Envasado.Win\bin\Debug\Vistony.AddonName.Win.exe.config
+D:\Desarrollo\Recursos Humanos\Recursos Humanos\Vistony.Envasado.Win\bin\Debug\Vistony.AddonName.Win.xml
+D:\Desarrollo\Recursos Humanos\Recursos Humanos\Vistony.Envasado.Win\bin\Debug\Vistony.AddonName.Win.exe
+D:\Desarrollo\Recursos Humanos\Recursos Humanos\Vistony.Envasado.Win\bin\Debug\Vistony.AddonName.Win.pdb
+D:\Desarrollo\Recursos Humanos\Recursos Humanos\Vistony.Envasado.Win\bin\Debug\Forxap.Framework.dll
+D:\Desarrollo\Recursos Humanos\Recursos Humanos\Vistony.Envasado.Win\bin\Debug\Forxap.Framework.ServiceLayer.dll
+D:\Desarrollo\Recursos Humanos\Recursos Humanos\Vistony.Envasado.Win\bin\Debug\Forxap.Framework.Utils.dll
+D:\Desarrollo\Recursos Humanos\Recursos Humanos\Vistony.Envasado.Win\bin\Debug\Newtonsoft.Json.dll
+D:\Desarrollo\Recursos Humanos\Recursos Humanos\Vistony.Envasado.Win\bin\Debug\RestSharp.dll
+D:\Desarrollo\Recursos Humanos\Recursos Humanos\Vistony.Envasado.Win\bin\Debug\SAPBusinessOneSDK.dll
+D:\Desarrollo\Recursos Humanos\Recursos Humanos\Vistony.Envasado.Win\bin\Debug\Vistony.AddonName.BLL.dll
+D:\Desarrollo\Recursos Humanos\Recursos Humanos\Vistony.Envasado.Win\bin\Debug\Vistony.AddonName.BO.dll
+D:\Desarrollo\Recursos Humanos\Recursos Humanos\Vistony.Envasado.Win\bin\Debug\Vistony.AddonName.DAL.dll
+D:\Desarrollo\Recursos Humanos\Recursos Humanos\Vistony.Envasado.Win\bin\Debug\Vistony.AddonName.BLL.pdb
+D:\Desarrollo\Recursos Humanos\Recursos Humanos\Vistony.Envasado.Win\bin\Debug\Vistony.AddonName.BO.pdb
+D:\Desarrollo\Recursos Humanos\Recursos Humanos\Vistony.Envasado.Win\bin\Debug\Vistony.AddonName.DAL.pdb
+D:\Desarrollo\Recursos Humanos\Recursos Humanos\Vistony.Envasado.Win\bin\Debug\RestSharp.xml
+D:\Desarrollo\Recursos Humanos\Recursos Humanos\Vistony.Envasado.Win\obj\Debug\Vistony.AsignacionRRHH.Win.csprojResolveAssemblyReference.cache
+D:\Desarrollo\Recursos Humanos\Recursos Humanos\Vistony.Envasado.Win\obj\Debug\Vistony.AddonName.Win.Properties.Resources.resources
+D:\Desarrollo\Recursos Humanos\Recursos Humanos\Vistony.Envasado.Win\obj\Debug\Vistony.AsignacionRRHH.Win.csproj.GenerateResource.Cache
+D:\Desarrollo\Recursos Humanos\Recursos Humanos\Vistony.Envasado.Win\obj\Debug\Vistony.AddonName.Win.exe
+D:\Desarrollo\Recursos Humanos\Recursos Humanos\Vistony.Envasado.Win\obj\Debug\Vistony.AddonName.Win.pdb
+D:\Desarrollo\Asignacion Equipos TI\Recursos Humanos\Recursos Humanos\Vistony.Envasado.Win\bin\Debug\Vistony.AddonName.Win.xml
+D:\Desarrollo\Asignacion Equipos TI\Recursos Humanos\Recursos Humanos\Vistony.Envasado.Win\obj\Debug\Vistony.AsignacionRRHH.Win.csprojResolveAssemblyReference.cache
+D:\Desarrollo\Asignacion Equipos TI\Recursos Humanos\Recursos Humanos\Vistony.Envasado.Win\obj\Debug\Vistony.AddonName.Win.Properties.Resources.resources
+D:\Desarrollo\Asignacion Equipos TI\Recursos Humanos\Recursos Humanos\Vistony.Envasado.Win\obj\Debug\Vistony.AsignacionRRHH.Win.csproj.GenerateResource.Cache
+D:\Desarrollo\Asignacion Equipos TI\Recursos Humanos\Recursos Humanos\Vistony.Envasado.Win\bin\Debug\Vistony.AddonName.Win.exe.config
+D:\Desarrollo\Asignacion Equipos TI\Recursos Humanos\Recursos Humanos\Vistony.Envasado.Win\bin\Debug\Vistony.AddonName.Win.exe
+D:\Desarrollo\Asignacion Equipos TI\Recursos Humanos\Recursos Humanos\Vistony.Envasado.Win\bin\Debug\Vistony.AddonName.Win.pdb
+D:\Desarrollo\Asignacion Equipos TI\Recursos Humanos\Recursos Humanos\Vistony.Envasado.Win\bin\Debug\Forxap.Framework.ServiceLayer.dll
+D:\Desarrollo\Asignacion Equipos TI\Recursos Humanos\Recursos Humanos\Vistony.Envasado.Win\bin\Debug\Newtonsoft.Json.dll
+D:\Desarrollo\Asignacion Equipos TI\Recursos Humanos\Recursos Humanos\Vistony.Envasado.Win\bin\Debug\RestSharp.dll
+D:\Desarrollo\Asignacion Equipos TI\Recursos Humanos\Recursos Humanos\Vistony.Envasado.Win\bin\Debug\SAPBusinessOneSDK.dll
+D:\Desarrollo\Asignacion Equipos TI\Recursos Humanos\Recursos Humanos\Vistony.Envasado.Win\bin\Debug\Vistony.AddonName.BLL.dll
+D:\Desarrollo\Asignacion Equipos TI\Recursos Humanos\Recursos Humanos\Vistony.Envasado.Win\bin\Debug\Vistony.AddonName.BO.dll
+D:\Desarrollo\Asignacion Equipos TI\Recursos Humanos\Recursos Humanos\Vistony.Envasado.Win\bin\Debug\Vistony.AddonName.DAL.dll
+D:\Desarrollo\Asignacion Equipos TI\Recursos Humanos\Recursos Humanos\Vistony.Envasado.Win\bin\Debug\Vistony.Framework.ServiceLayer.dll
+D:\Desarrollo\Asignacion Equipos TI\Recursos Humanos\Recursos Humanos\Vistony.Envasado.Win\bin\Debug\Vistony.Framework.dll
+D:\Desarrollo\Asignacion Equipos TI\Recursos Humanos\Recursos Humanos\Vistony.Envasado.Win\bin\Debug\Vistony.AddonName.BLL.pdb
+D:\Desarrollo\Asignacion Equipos TI\Recursos Humanos\Recursos Humanos\Vistony.Envasado.Win\bin\Debug\Vistony.AddonName.BO.pdb
+D:\Desarrollo\Asignacion Equipos TI\Recursos Humanos\Recursos Humanos\Vistony.Envasado.Win\bin\Debug\Vistony.AddonName.DAL.pdb
+D:\Desarrollo\Asignacion Equipos TI\Recursos Humanos\Recursos Humanos\Vistony.Envasado.Win\bin\Debug\Newtonsoft.Json.pdb
+D:\Desarrollo\Asignacion Equipos TI\Recursos Humanos\Recursos Humanos\Vistony.Envasado.Win\bin\Debug\Newtonsoft.Json.xml
+D:\Desarrollo\Asignacion Equipos TI\Recursos Humanos\Recursos Humanos\Vistony.Envasado.Win\bin\Debug\RestSharp.xml
+D:\Desarrollo\Asignacion Equipos TI\Recursos Humanos\Recursos Humanos\Vistony.Envasado.Win\bin\Debug\Vistony.Framework.ServiceLayer.pdb
+D:\Desarrollo\Asignacion Equipos TI\Recursos Humanos\Recursos Humanos\Vistony.Envasado.Win\bin\Debug\Vistony.Framework.pdb
+D:\Desarrollo\Asignacion Equipos TI\Recursos Humanos\Recursos Humanos\Vistony.Envasado.Win\obj\Debug\Vistony.AddonName.Win.exe
+D:\Desarrollo\Asignacion Equipos TI\Recursos Humanos\Recursos Humanos\Vistony.Envasado.Win\obj\Debug\Vistony.AddonName.Win.pdb
+D:\Desarrollo\Asignacion Equipos TI\Recursos Humanos\Recursos Humanos\Recursos Humanos\Vistony.Envasado.Win\bin\Debug\Vistony.AddonName.Win.exe.config
+D:\Desarrollo\Asignacion Equipos TI\Recursos Humanos\Recursos Humanos\Recursos Humanos\Vistony.Envasado.Win\bin\Debug\Vistony.AddonName.Win.xml
+D:\Desarrollo\Asignacion Equipos TI\Recursos Humanos\Recursos Humanos\Recursos Humanos\Vistony.Envasado.Win\obj\Debug\Vistony.AddonName.Win.exe
+D:\Desarrollo\Asignacion Equipos TI\Recursos Humanos\Recursos Humanos\Recursos Humanos\Vistony.Envasado.Win\obj\Debug\Vistony.AddonName.Win.pdb
+D:\Desarrollo\Asignacion Equipos TI\Recursos Humanos\Recursos Humanos\Recursos Humanos\Vistony.Envasado.Win\bin\Debug\Vistony.AddonName.Win.exe
+D:\Desarrollo\Asignacion Equipos TI\Recursos Humanos\Recursos Humanos\Recursos Humanos\Vistony.Envasado.Win\bin\Debug\Vistony.AddonName.Win.pdb
+D:\Desarrollo\Asignacion Equipos TI\Recursos Humanos\Recursos Humanos\Recursos Humanos\Vistony.Envasado.Win\bin\Debug\Newtonsoft.Json.dll
+D:\Desarrollo\Asignacion Equipos TI\Recursos Humanos\Recursos Humanos\Recursos Humanos\Vistony.Envasado.Win\bin\Debug\RestSharp.dll
+D:\Desarrollo\Asignacion Equipos TI\Recursos Humanos\Recursos Humanos\Recursos Humanos\Vistony.Envasado.Win\bin\Debug\SAPBusinessOneSDK.dll
+D:\Desarrollo\Asignacion Equipos TI\Recursos Humanos\Recursos Humanos\Recursos Humanos\Vistony.Envasado.Win\bin\Debug\Vistony.AddonName.BLL.dll
+D:\Desarrollo\Asignacion Equipos TI\Recursos Humanos\Recursos Humanos\Recursos Humanos\Vistony.Envasado.Win\bin\Debug\Vistony.AddonName.BO.dll
+D:\Desarrollo\Asignacion Equipos TI\Recursos Humanos\Recursos Humanos\Recursos Humanos\Vistony.Envasado.Win\bin\Debug\Vistony.AddonName.DAL.dll
+D:\Desarrollo\Asignacion Equipos TI\Recursos Humanos\Recursos Humanos\Recursos Humanos\Vistony.Envasado.Win\bin\Debug\Vistony.AddonName.BLL.pdb
+D:\Desarrollo\Asignacion Equipos TI\Recursos Humanos\Recursos Humanos\Recursos Humanos\Vistony.Envasado.Win\bin\Debug\Vistony.AddonName.BO.pdb
+D:\Desarrollo\Asignacion Equipos TI\Recursos Humanos\Recursos Humanos\Recursos Humanos\Vistony.Envasado.Win\bin\Debug\Vistony.AddonName.DAL.pdb
+D:\Desarrollo\Asignacion Equipos TI\Recursos Humanos\Recursos Humanos\Recursos Humanos\Vistony.Envasado.Win\bin\Debug\RestSharp.xml
+D:\Desarrollo\Asignacion Equipos TI\Recursos Humanos\Recursos Humanos\Recursos Humanos\Vistony.Envasado.Win\bin\Debug\Vistony.Framework.ServiceLayer.pdb
+D:\Desarrollo\Asignacion Equipos TI\Recursos Humanos\Recursos Humanos\Recursos Humanos\Vistony.Envasado.Win\obj\Debug\Vistony.AsignacionRRHH.Win.csprojResolveAssemblyReference.cache
+D:\Desarrollo\Asignacion Equipos TI\Recursos Humanos\Recursos Humanos\Recursos Humanos\Vistony.Envasado.Win\obj\Debug\Vistony.AddonName.Win.Properties.Resources.resources
+D:\Desarrollo\Asignacion Equipos TI\Recursos Humanos\Recursos Humanos\Recursos Humanos\Vistony.Envasado.Win\obj\Debug\Vistony.AsignacionRRHH.Win.csproj.GenerateResource.Cache
+D:\Desarrollo\Asignacion Equipos TI\Recursos Humanos\Recursos Humanos\Recursos Humanos\Vistony.Envasado.Win\bin\Debug\Forxap.Framework.dll
+D:\Desarrollo\Asignacion Equipos TI\Recursos Humanos\Recursos Humanos\Recursos Humanos\Vistony.Envasado.Win\bin\Debug\Forxap.Framework.ServiceLayer.dll
+D:\Desarrollo\Asignacion Equipos TI\Recursos Humanos\Recursos Humanos\Recursos Humanos\Vistony.Envasado.Win\bin\Debug\Vistony.Framework.ServiceLayer.dll
+D:\Desarrollo\Asignacion Equipos TI\Recursos Humanos\Recursos Humanos\Recursos Humanos\Vistony.Envasado.Win\bin\Debug\Vistony.Framework1.dll
+D:\Desarrollo\Asignacion Equipos TI\Recursos Humano1\Recursos Humanos\Recursos Humanos\Vistony.Envasado.Win\bin\Debug\Vistony.AddonName.Win.exe.config
+D:\Desarrollo\Asignacion Equipos TI\Recursos Humano1\Recursos Humanos\Recursos Humanos\Vistony.Envasado.Win\bin\Debug\Vistony.AddonName.Win.xml
+D:\Desarrollo\Asignacion Equipos TI\Recursos Humano1\Recursos Humanos\Recursos Humanos\Vistony.Envasado.Win\obj\Debug\Vistony.AddonName.Win.exe
+D:\Desarrollo\Asignacion Equipos TI\Recursos Humano1\Recursos Humanos\Recursos Humanos\Vistony.Envasado.Win\obj\Debug\Vistony.AddonName.Win.pdb
+D:\Desarrollo\Asignacion Equipos TI\Recursos Humano1\Recursos Humanos\Recursos Humanos\Vistony.Envasado.Win\bin\Debug\Vistony.AddonName.Win.exe
+D:\Desarrollo\Asignacion Equipos TI\Recursos Humano1\Recursos Humanos\Recursos Humanos\Vistony.Envasado.Win\bin\Debug\Vistony.AddonName.Win.pdb
+D:\Desarrollo\Asignacion Equipos TI\Recursos Humano1\Recursos Humanos\Recursos Humanos\Vistony.Envasado.Win\bin\Debug\Forxap.Framework.dll
+D:\Desarrollo\Asignacion Equipos TI\Recursos Humano1\Recursos Humanos\Recursos Humanos\Vistony.Envasado.Win\bin\Debug\Forxap.Framework.ServiceLayer.dll
+D:\Desarrollo\Asignacion Equipos TI\Recursos Humano1\Recursos Humanos\Recursos Humanos\Vistony.Envasado.Win\bin\Debug\Newtonsoft.Json.dll
+D:\Desarrollo\Asignacion Equipos TI\Recursos Humano1\Recursos Humanos\Recursos Humanos\Vistony.Envasado.Win\bin\Debug\RestSharp.dll
+D:\Desarrollo\Asignacion Equipos TI\Recursos Humano1\Recursos Humanos\Recursos Humanos\Vistony.Envasado.Win\bin\Debug\SAPBusinessOneSDK.dll
+D:\Desarrollo\Asignacion Equipos TI\Recursos Humano1\Recursos Humanos\Recursos Humanos\Vistony.Envasado.Win\bin\Debug\Vistony.AddonName.BLL.dll
+D:\Desarrollo\Asignacion Equipos TI\Recursos Humano1\Recursos Humanos\Recursos Humanos\Vistony.Envasado.Win\bin\Debug\Vistony.AddonName.BO.dll
+D:\Desarrollo\Asignacion Equipos TI\Recursos Humano1\Recursos Humanos\Recursos Humanos\Vistony.Envasado.Win\bin\Debug\Vistony.AddonName.DAL.dll
+D:\Desarrollo\Asignacion Equipos TI\Recursos Humano1\Recursos Humanos\Recursos Humanos\Vistony.Envasado.Win\bin\Debug\Vistony.Framework.ServiceLayer.dll
+D:\Desarrollo\Asignacion Equipos TI\Recursos Humano1\Recursos Humanos\Recursos Humanos\Vistony.Envasado.Win\bin\Debug\Vistony.Framework1.dll
+D:\Desarrollo\Asignacion Equipos TI\Recursos Humano1\Recursos Humanos\Recursos Humanos\Vistony.Envasado.Win\bin\Debug\Vistony.AddonName.BLL.pdb
+D:\Desarrollo\Asignacion Equipos TI\Recursos Humano1\Recursos Humanos\Recursos Humanos\Vistony.Envasado.Win\bin\Debug\Vistony.AddonName.BO.pdb
+D:\Desarrollo\Asignacion Equipos TI\Recursos Humano1\Recursos Humanos\Recursos Humanos\Vistony.Envasado.Win\bin\Debug\Vistony.AddonName.DAL.pdb
+D:\Desarrollo\Asignacion Equipos TI\Recursos Humano1\Recursos Humanos\Recursos Humanos\Vistony.Envasado.Win\bin\Debug\RestSharp.xml
+D:\Desarrollo\Asignacion Equipos TI\Recursos Humano1\Recursos Humanos\Recursos Humanos\Vistony.Envasado.Win\bin\Debug\Vistony.Framework.ServiceLayer.pdb
+D:\Desarrollo\Asignacion Equipos TI\Recursos Humano1\Recursos Humanos\Recursos Humanos\Vistony.Envasado.Win\obj\Debug\Vistony.AsignacionRRHH.Win.csprojResolveAssemblyReference.cache
+D:\Desarrollo\Asignacion Equipos TI\Recursos Humano1\Recursos Humanos\Recursos Humanos\Vistony.Envasado.Win\obj\Debug\Vistony.AddonName.Win.Properties.Resources.resources
+D:\Desarrollo\Asignacion Equipos TI\Recursos Humano1\Recursos Humanos\Recursos Humanos\Vistony.Envasado.Win\obj\Debug\Vistony.AsignacionRRHH.Win.csproj.GenerateResource.Cache
+D:\Desarrollo\Asignacion Equipos TI\Recursos Humano1\Recursos Humanos\Recursos Humanos\Vistony.Envasado.Win\bin\Debug\Newtonsoft.Json.xml
+D:\Desarrollo\Asignacion Equipos TI\Recursos Humanos\Vistony.Envasado.Win\bin\Debug\Vistony.AddonName.Win.exe.config
+D:\Desarrollo\Asignacion Equipos TI\Recursos Humanos\Vistony.Envasado.Win\bin\Debug\Vistony.AddonName.Win.xml
+D:\Desarrollo\Asignacion Equipos TI\Recursos Humanos\Vistony.Envasado.Win\bin\Debug\Vistony.AddonName.Win.exe
+D:\Desarrollo\Asignacion Equipos TI\Recursos Humanos\Vistony.Envasado.Win\bin\Debug\Vistony.AddonName.Win.pdb
+D:\Desarrollo\Asignacion Equipos TI\Recursos Humanos\Vistony.Envasado.Win\bin\Debug\Forxap.Framework.dll
+D:\Desarrollo\Asignacion Equipos TI\Recursos Humanos\Vistony.Envasado.Win\bin\Debug\Forxap.Framework.ServiceLayer.dll
+D:\Desarrollo\Asignacion Equipos TI\Recursos Humanos\Vistony.Envasado.Win\bin\Debug\Forxap.Framework.Utils.dll
+D:\Desarrollo\Asignacion Equipos TI\Recursos Humanos\Vistony.Envasado.Win\bin\Debug\Newtonsoft.Json.dll
+D:\Desarrollo\Asignacion Equipos TI\Recursos Humanos\Vistony.Envasado.Win\bin\Debug\RestSharp.dll
+D:\Desarrollo\Asignacion Equipos TI\Recursos Humanos\Vistony.Envasado.Win\bin\Debug\SAPBusinessOneSDK.dll
+D:\Desarrollo\Asignacion Equipos TI\Recursos Humanos\Vistony.Envasado.Win\bin\Debug\Vistony.AddonName.BLL.dll
+D:\Desarrollo\Asignacion Equipos TI\Recursos Humanos\Vistony.Envasado.Win\bin\Debug\Vistony.AddonName.BO.dll
+D:\Desarrollo\Asignacion Equipos TI\Recursos Humanos\Vistony.Envasado.Win\bin\Debug\Vistony.AddonName.DAL.dll
+D:\Desarrollo\Asignacion Equipos TI\Recursos Humanos\Vistony.Envasado.Win\bin\Debug\Vistony.AddonName.BLL.pdb
+D:\Desarrollo\Asignacion Equipos TI\Recursos Humanos\Vistony.Envasado.Win\bin\Debug\Vistony.AddonName.BO.pdb
+D:\Desarrollo\Asignacion Equipos TI\Recursos Humanos\Vistony.Envasado.Win\bin\Debug\Vistony.AddonName.DAL.pdb
+D:\Desarrollo\Asignacion Equipos TI\Recursos Humanos\Vistony.Envasado.Win\bin\Debug\Newtonsoft.Json.xml
+D:\Desarrollo\Asignacion Equipos TI\Recursos Humanos\Vistony.Envasado.Win\bin\Debug\RestSharp.xml
+D:\Desarrollo\Asignacion Equipos TI\Recursos Humanos\Vistony.Envasado.Win\obj\Debug\Vistony.AsignacionRRHH.Win.csprojResolveAssemblyReference.cache
+D:\Desarrollo\Asignacion Equipos TI\Recursos Humanos\Vistony.Envasado.Win\obj\Debug\Vistony.AddonName.Win.Properties.Resources.resources
+D:\Desarrollo\Asignacion Equipos TI\Recursos Humanos\Vistony.Envasado.Win\obj\Debug\Vistony.AsignacionRRHH.Win.csproj.GenerateResource.Cache
+D:\Desarrollo\Asignacion Equipos TI\Recursos Humanos\Vistony.Envasado.Win\obj\Debug\Vistony.AddonName.Win.exe
+D:\Desarrollo\Asignacion Equipos TI\Recursos Humanos\Vistony.Envasado.Win\obj\Debug\Vistony.AddonName.Win.pdb
+D:\Desarrollo\Asignacion Equipos TI - V2\Recursos Humanos\Vistony.Envasado.Win\bin\Debug\Vistony.AddonName.Win.exe.config
+D:\Desarrollo\Asignacion Equipos TI - V2\Recursos Humanos\Vistony.Envasado.Win\bin\Debug\Vistony.AddonName.Win.xml
+D:\Desarrollo\Asignacion Equipos TI - V2\Recursos Humanos\Vistony.Envasado.Win\obj\Debug\Vistony.AddonName.Win.exe
+D:\Desarrollo\Asignacion Equipos TI - V2\Recursos Humanos\Vistony.Envasado.Win\obj\Debug\Vistony.AddonName.Win.pdb
+D:\Desarrollo\Asignacion Equipos TI - V2\Recursos Humanos\Vistony.Envasado.Win\obj\Debug\Vistony.AsignacionRRHH.Win.csprojResolveAssemblyReference.cache
+D:\Desarrollo\Asignacion Equipos TI - V2\Recursos Humanos\Vistony.Envasado.Win\obj\Debug\Vistony.AddonName.Win.Properties.Resources.resources
+D:\Desarrollo\Asignacion Equipos TI - V2\Recursos Humanos\Vistony.Envasado.Win\obj\Debug\Vistony.AsignacionRRHH.Win.csproj.GenerateResource.Cache
+D:\Desarrollo\Asignacion Equipos TI - V2\Recursos Humanos\Vistony.Envasado.Win\bin\Debug\Vistony.AddonName.Win.exe
+D:\Desarrollo\Asignacion Equipos TI - V2\Recursos Humanos\Vistony.Envasado.Win\bin\Debug\Vistony.AddonName.Win.pdb
+D:\Desarrollo\Asignacion Equipos TI - V2\Recursos Humanos\Vistony.Envasado.Win\bin\Debug\Forxap.Framework.dll
+D:\Desarrollo\Asignacion Equipos TI - V2\Recursos Humanos\Vistony.Envasado.Win\bin\Debug\Forxap.Framework.ServiceLayer.dll
+D:\Desarrollo\Asignacion Equipos TI - V2\Recursos Humanos\Vistony.Envasado.Win\bin\Debug\Forxap.Framework.Utils.dll
+D:\Desarrollo\Asignacion Equipos TI - V2\Recursos Humanos\Vistony.Envasado.Win\bin\Debug\Newtonsoft.Json.dll
+D:\Desarrollo\Asignacion Equipos TI - V2\Recursos Humanos\Vistony.Envasado.Win\bin\Debug\RestSharp.dll
+D:\Desarrollo\Asignacion Equipos TI - V2\Recursos Humanos\Vistony.Envasado.Win\bin\Debug\SAPBusinessOneSDK.dll
+D:\Desarrollo\Asignacion Equipos TI - V2\Recursos Humanos\Vistony.Envasado.Win\bin\Debug\Vistony.AddonName.BLL.dll
+D:\Desarrollo\Asignacion Equipos TI - V2\Recursos Humanos\Vistony.Envasado.Win\bin\Debug\Vistony.AddonName.BO.dll
+D:\Desarrollo\Asignacion Equipos TI - V2\Recursos Humanos\Vistony.Envasado.Win\bin\Debug\Vistony.AddonName.DAL.dll
+D:\Desarrollo\Asignacion Equipos TI - V2\Recursos Humanos\Vistony.Envasado.Win\bin\Debug\Vistony.AddonName.BLL.pdb
+D:\Desarrollo\Asignacion Equipos TI - V2\Recursos Humanos\Vistony.Envasado.Win\bin\Debug\Vistony.AddonName.BO.pdb
+D:\Desarrollo\Asignacion Equipos TI - V2\Recursos Humanos\Vistony.Envasado.Win\bin\Debug\Vistony.AddonName.DAL.pdb
+D:\Desarrollo\Asignacion Equipos TI - V2\Recursos Humanos\Vistony.Envasado.Win\bin\Debug\Newtonsoft.Json.xml
+D:\Desarrollo\Asignacion Equipos TI - V2\Recursos Humanos\Vistony.Envasado.Win\bin\Debug\RestSharp.xml
